@@ -13,6 +13,15 @@ ResponsiveDesign is a simple web project that showcases a responsive webpage. Th
 - **HTML**: For structuring the content of the webpage.
 - **SCSS (CSS)**: For styling the webpage, including responsive designs using media queries.
 
+## Screenshots
+
+### Mobile View:
+![Mobile View](MobileView.png)
+
+
+### Desktop View:
+![Desktop View](DesktopView.png)
+
 ## Code Explanation
 
 ### HTML (`index.html`)
@@ -50,16 +59,6 @@ To view or use this project locally:
    ```
 
 2. Open `index.html` in your browser to view the webpage.
-
-## Screenshots
-
-### Mobile View:
-![Mobile View](MobileView.png)
-
-
-### Desktop View:
-![Desktop View](DesktopView.png)
-
 
 ## License
 This project is licensed under the MIT License. Feel free to use or modify it as needed.
