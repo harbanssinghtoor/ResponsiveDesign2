@@ -9,10 +9,6 @@ ResponsiveDesign is a simple web project that showcases a responsive webpage. Th
 - **Clean and Modern Aesthetic**: The design uses clean typography, spacing, and imagery to deliver a professional look.
 - **Custom Branding Section**: Includes branding information and services offered by the agency.
 
-## Technologies Used
-- **HTML**: For structuring the content of the webpage.
-- **SCSS (CSS)**: For styling the webpage, including responsive designs using media queries.
-
 ## Screenshots
 
 ### Mobile View:
@@ -21,6 +17,10 @@ ResponsiveDesign is a simple web project that showcases a responsive webpage. Th
 
 ### Desktop View:
 ![Desktop View](DesktopView.png)
+
+## Technologies Used
+- **HTML**: For structuring the content of the webpage.
+- **SCSS (CSS)**: For styling the webpage, including responsive designs using media queries.
 
 ## Code Explanation
 
