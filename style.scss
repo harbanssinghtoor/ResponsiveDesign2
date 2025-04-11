@@ -101,3 +101,35 @@ main {
     }
   }
 }
+
+@media (min-width:900px){
+    main{
+        padding: 4rem;
+        gap: 3.5rem;
+
+        .image-text{
+            flex-direction: row-reverse;
+            gap: 3.5em;
+
+            .bottom{
+                h1{
+                    font-size: 4.5em;
+                    letter-spacing: 0.06em;
+                }
+
+                p{
+                    font-size: 2em;
+                }
+
+                .services{
+                    margin-top: auto;
+                    .service{
+                        p{
+                            font-size: 2em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

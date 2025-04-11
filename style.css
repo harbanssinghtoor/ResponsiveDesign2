@@ -85,4 +85,28 @@ main .image-text .bottom .services .service p {
   text-transform: uppercase;
   font-size: 1.5rem;
   font-weight: 400;
+}
+
+@media (min-width: 900px) {
+  main {
+    padding: 4rem;
+    gap: 3.5rem;
+  }
+  main .image-text {
+    flex-direction: row-reverse;
+    gap: 3.5em;
+  }
+  main .image-text .bottom h1 {
+    font-size: 4.5em;
+    letter-spacing: 0.06em;
+  }
+  main .image-text .bottom p {
+    font-size: 2em;
+  }
+  main .image-text .bottom .services {
+    margin-top: auto;
+  }
+  main .image-text .bottom .services .service p {
+    font-size: 2em;
+  }
 }/*# sourceMappingURL=style.css.map */
